@@ -1,5 +1,8 @@
 package com.nexus.util.http;
 
+/**
+ * https证书设置
+ */
 
 import java.security.KeyManagementException;
 import java.security.NoSuchAlgorithmException;
